@@ -113,7 +113,7 @@ set tags=./tags;
 set iskeyword-=_
 
 " Use Ack instead of grep
-set grepprg=ack
+set grepprg=ack-grep
 
 " Make the omnicomplete text readable
 :highlight PmenuSel ctermfg=black
